@@ -1,2 +1,2 @@
-# micromouse
-an autonomous maze-solving robot
+# Micromouse-Futura
+Futura project: advanced autonomous maze-solving robot 
